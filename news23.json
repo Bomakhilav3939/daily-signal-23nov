@@ -1,0 +1,40 @@
+{
+  "date_line": "MONDAY  ·  NOVEMBER 23, 2026",
+  "kicker_top": "WORLD EDITION",
+  "kicker_no": "N° 23",
+  "lead1": {
+    "tag": "CLIMATE  ·  ANTALYA, TÜRKIYE",
+    "icon": "globe",
+    "headline": "CLIMATE SUMMIT COP31 COLLAPSES WITHOUT A FUEL DEAL",
+    "deck": "Talks end deadlocked as the final draft never mentions coal, oil or gas. Saudi Arabia and Russia led the strip-out; the US stayed out after leaving Paris."
+  },
+  "lead2": {
+    "tag": "WAR  ·  BENGHAZI, LIBYA",
+    "icon": "ship",
+    "headline": "UKRAINE SINKS RUSSIAN CORVETTE 'MERKURY' OFF LIBYA",
+    "deck": "Zelenskyy: seven naval drones hit the 2023-built ship in harbour; ten crew wounded, and Libya filed a UN complaint."
+  },
+  "cards": [
+    {"region": "UNITED STATES", "icon": "ballot", "headline": "DEMS CLINCH HOUSE 258", "body": "Final tallies give Democrats their biggest House majority since 1992, as Fox concedes NC."},
+    {"region": "TECHNOLOGY", "icon": "chip", "headline": "NVIDIA REINSTATES JENSEN HUANG", "body": "Board restores the CEO after the spy-aid row; the stock's best day since 2003 adds nearly $1T."},
+    {"region": "MIDDLE EAST", "icon": "radar", "headline": "TRUMP SEEKS NEW IRAN STRIKES", "body": "He is 'inclined to resume strikes after New Year' if talks fail; the tanker war in Hormuz rages on."},
+    {"region": "ENERGY", "icon": "oil", "headline": "HORMUZ TANKER STRIKES PEAK", "body": "Three more ships hit over the weekend; the worst pace since February, Brent at $92.67."},
+    {"region": "EUROPE  ·  WAR", "icon": "drone", "headline": "RUSSIA'S 153-DRONE BOMBARDMENT", "body": "Ukraine downed 134; fifteen killed in the Kyiv region, a woman freed after 22 hours."},
+    {"region": "EUROPE", "icon": "crowd", "headline": "STUDENTS MARCH ACROSS EUROPE", "body": "Thousands march on the Brussels budget fight; campuses demand pay, rent relief, schools."},
+    {"region": "EUROPE  ·  BUSINESS", "icon": "bank", "headline": "FRANCE LOGS €14.9B IN PLEDGES", "body": "The 'Choose France' summit announces 273 industrial projects at Versailles."},
+    {"region": "ASIA  ·  INDONESIA", "icon": "flag", "headline": "PRABOWO NAMES TWO VP CANDIDATES", "body": "Amran Sulaiman and Sugiono line up to replace Gibran; the MPR votes December 11."},
+    {"region": "ASIA  ·  INDIA", "icon": "temple", "headline": "MODI, NEPAL'S PM SIGN DEALS", "body": "A 24,000-crore package for Nepal; an offshore IIT campus announced after Balen Shah's visit."},
+    {"region": "MIDDLE EAST  ·  GAZA", "icon": "cross", "headline": "GAZA DEATH TOLL CLIMBS", "body": "Sixteen killed Saturday to Monday, including a UNRWA worker; a strike hits Al-Amari camp."},
+    {"region": "AFRICA  ·  SUDAN", "icon": "flame", "headline": "KHARTOUM DRONES KILL FOUR", "body": "A UN building damaged in dawn strikes; the RSF is blamed as drones reshape the war."},
+    {"region": "UNITED STATES", "icon": "plane", "headline": "DELTA OUTAGE, FAA GROUND STOP", "body": "The US intelligence chief warns of more tech failures as outages hit flights, banks and email."}
+  ],
+  "ticker": [
+    "SHEIKH HASINA TO RETURN DEC 16",
+    "GUTERRES CALLS FOR GLOBAL AI SAFETY TALKS",
+    "81.5M THANKSGIVING TRAVELLERS",
+    "ANTHROPIC SHIPS 'CLAUDE SHIP'",
+    "UN CHIEF RACE DEADLOCKED",
+    "DR CONGO EBOLA WORKERS TRAPPED",
+    "POLAR VORTEX OFF-POLE"
+  ]
+}
